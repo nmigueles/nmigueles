@@ -1,2 +1,2 @@
 ### nmigueles
-**Software Developer** at [Lara AI](https://lara.ai)
+**Tech Lead** at [Lara AI](https://lara.ai)
